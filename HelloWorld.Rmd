@@ -9,7 +9,7 @@ output: word_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## This is a markdown file to the document 
 
 This is an **R Markdown** document that I created. I have *knitted* it as a **Word** document. I have included **bold** and Italic* styles to practice markdown code. 
 
